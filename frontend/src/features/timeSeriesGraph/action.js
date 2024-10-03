@@ -1,4 +1,3 @@
-// actions.js
 export const fetchData = () => async dispatch => {
     try {
         const response = await fetch('/api/invoices');
