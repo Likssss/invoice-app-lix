@@ -54,9 +54,9 @@ Open terminal and type this command
 
 ```bash
 $ git clone https://github.com/Likssss/invoice-app-lix/
-$ cd react-invoice-system
+$ cd invoice-app-lix
 $ npm install
-$ cd Frontend
+$ cd frontend
 $ npm install
 $ cd ..
 ```
