@@ -24,12 +24,7 @@ Junior Software Engineer at WidaTech.
     - Show a graph to project revenue from invoices for daily, weekly, and monthly. ✅
     - It should enable user to pan and zoom to specific period. ✅
     - Auto scroll when new data is pushed. ✅
-
-Notes:
-
-- ✅ Requirement has been implemented.
-- ⚠️ Requirement partially implemented.
-- 🚫 Requirement has not yet been implemented.
+    - 
 
 ## Tech Stack and Used Package
 
