@@ -1,4 +1,3 @@
-// actions/invoiceActions.js
 import axios from 'axios';
 
 export const fetchInvoices = () => async (dispatch) => {
